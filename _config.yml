@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+author: Dr. John McGovern
 title: Dr. John McGovern, Psychologist 
-email: johnmcgovernharvardphd@gmail.com
+email: JOHNMCGOVERNHARVARDPHD@GMAIL.COM
 description: >- # this means to ignore newlines until "baseurl:"
   This is the webpage of the psychologist Dr. John McGovern. 
   Contact information on the left. 
@@ -22,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   refrain from including transparent confidential material 
   identifying individuals whose confidentiality needs to be protected by
    attorney-client privilege and psychologist-patient confidentiality issues.
-    Copyright 2018, John McGovern.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
