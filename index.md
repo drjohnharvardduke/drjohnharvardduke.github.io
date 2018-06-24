@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-I am a Harvard trained **Clinical Psychologist** who provides services in the area of **Forensic Psychology** (the intersection of the Law and Psychology).
+I am a Harvard trained **Clinical Psychologist** who provides services in the area of **Forensic Psychology** (the intersection of the Law and Psychology) in the Durham, Chapel Hill, and Raleigh area of North Carolina, USA.
 
 
 I serve as an **Expert Witness** in many areas of law (with the exception of Criminal Law cases and Family Court cases, e.g. Child Custody cases).
